@@ -1,0 +1,6 @@
+E:\My Documents\Visual Studio 2015\Projects\kRPC.Programs\kRPC.Programs.Tests\bin\Debug\kRPC.Programs.Tests.dll
+E:\My Documents\Visual Studio 2015\Projects\kRPC.Programs\kRPC.Programs.Tests\bin\Debug\kRPC.Programs.Tests.pdb
+E:\My Documents\Visual Studio 2015\Projects\kRPC.Programs\kRPC.Programs.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\My Documents\Visual Studio 2015\Projects\kRPC.Programs\kRPC.Programs.Tests\obj\Debug\kRPC.Programs.Tests.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2015\Projects\kRPC.Programs\kRPC.Programs.Tests\obj\Debug\kRPC.Programs.Tests.dll
+E:\My Documents\Visual Studio 2015\Projects\kRPC.Programs\kRPC.Programs.Tests\obj\Debug\kRPC.Programs.Tests.pdb
